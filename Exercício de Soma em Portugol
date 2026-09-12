@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro x, y, z 
+		escreva("digite o 1° numero\n")
+		leia(x)
+		escreva("digite o 2° numero\n")
+		leia(y)
+		z = x + y
+		escreva("a soma é: ",z,"\n")
+	}
+		
+}
